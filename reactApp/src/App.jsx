@@ -14,7 +14,8 @@ function App() {
       <Footer data={name}/>
       <div>inside div <span>fghj</span> <div>ghjk</div>
       <div>2</div>
-      
+      <div>mithlesh</div>
+
       <div>3</div></div>
     </div>
 </>)
